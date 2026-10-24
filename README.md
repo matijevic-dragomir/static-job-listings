@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/dragi-ns/static-job-listings
-- Live Site URL: https://dragi-ns.github.io/static-job-listings
+- Solution URL: https://github.com/matijevic-dragomir/static-job-listings
+- Live Site URL: https://matijevic-dragomir.github.io/static-job-listings
 
 ## My process
 
@@ -48,4 +48,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [dragi-ns](https://github.com/dragi-ns)
+- Website - [matijevic-dragomir](https://github.com/matijevic-dragomir)
